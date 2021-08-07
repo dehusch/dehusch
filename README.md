@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @dehusch
 - 👀 I’m interested in improve my skills
-- 🌱 I’m currently learning computer science at University of People
+- 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on freeBSD community
-- 📫 How to reach me @dehusch on insta and 
-
+- 📫 How to reach me @dehusch on insta
+- 📧 eberhardhusch@gmail.com
+- 
 
 <!---
 dehusch/dehusch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
