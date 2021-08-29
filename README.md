@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on freeBSD community
 - 📫 How to reach me @dehusch on insta
-- 📧 eberhardhusch@gmail.com
+- 📧 denis.husch@gmail.com
 - 
 
 <!---
