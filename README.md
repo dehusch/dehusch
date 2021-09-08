@@ -12,7 +12,7 @@ Attempting to reach this levels:
 - Cisco (CCNA), compTIA (IT Fundamentals, A+ and Network+) and MTA Certifications
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehusch&show_icons=true&theme=dark&border_radius=20&c%2B%2B%layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehusch)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehusch&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
