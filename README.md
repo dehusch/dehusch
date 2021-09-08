@@ -15,7 +15,7 @@ Attempting to reach this levels:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehusch&&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehusch&&layout=compact&bg_color=black)
 
 
 
