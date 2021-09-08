@@ -11,7 +11,8 @@ Attempting to reach this levels:
 - SQL, AWS, IoT and Cloud Computing knowledge
 - Cisco (CCNA), compTIA (IT Fundamentals, A+ and Network+) and MTA Certifications
 
-[![Eberhard's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehusch)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehusch&show_icons=true&theme=radical)
+
 
 
 
