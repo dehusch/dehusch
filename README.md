@@ -11,6 +11,9 @@ Attempting to reach this levels:
 - SQL, AWS, IoT and Cloud Computing knowledge
 - Cisco (CCNA), compTIA (IT Fundamentals, A+ and Network+) and MTA Certifications
 
+[(https://github-readme-stats.vercel.app/api?username=dehusch)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 dehusch/dehusch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
