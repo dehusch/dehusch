@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on freeBSD community
 - 📫 How to reach me @dehusch on insta
-- 📧 denis.husch@gmail.com
+- 📧 de.husch@yahoo.de
 - 
 
 Attempting to reach this levels:
