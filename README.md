@@ -1,4 +1,4 @@
-<img height="180em" align="right" src="https://user-images.githubusercontent.com/32211893/132607420-32dd376f-3d2e-4bbb-996d-261580e780a3.png">
+<img height="180em" align="right" src="https://user-images.githubusercontent.com/32211893/132607420-32dd376f-3d2e-4bbb-996d-261580e780a3.png"><img height="180em" align="right" src="https://user-images.githubusercontent.com/32211893/132606972-e65e28e3-1ab3-452c-8c42-bc0f0e7eac02.png">
 
 
 - 👋 Hi, I’m @dehusch
@@ -12,8 +12,7 @@
 
 Attempting to reach this levels:
 - C, ShellScript, JavaScript and Python Programmer.
-- A FreeBSD advanced user.
-
+- A FreeBSD and Debian advanced user.
 
 <div>
   <a href="https://github.com/dehusch">
