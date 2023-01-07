@@ -1,13 +1,14 @@
-<img height="180em" align="right" src="https://user-images.githubusercontent.com/32211893/132607420-32dd376f-3d2e-4bbb-996d-261580e780a3.png"><img height="180em" align="right" src="https://user-images.githubusercontent.com/32211893/132606972-e65e28e3-1ab3-452c-8c42-bc0f0e7eac02.png">
+<img height="180em" align="right" src="https://user-images.githubusercontent.com/32211893/132607420-32dd376f-3d2e-4bbb-996d-261580e780a3.png">
 
 
 - 👋 Hi, I’m @dehusch
 - 👀 I’m interested in improve my skills
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on freeBSD community
-- 📫 How to reach me @dehusch on insta
-- 📧 de.husch@yahoo.de
-- 
+- 📫 To reach me:
+- @dehusch on insta
+- eberhard.husch@outlook.com
+- https://www.linkedin.com/in/denishusch/
 
 Attempting to reach this levels:
 - C, ShellScript, JavaScript and Python Programmer.
