@@ -10,10 +10,8 @@
 - 
 
 Attempting to reach this levels:
-- C, ShellScript, Java, JavaScript and Python Programmer
-- A FreeBSD and Debian Linux advanced user (LPIC 1, 2, 3, DevOps and BSD Specialist Certification)
-- SQL, AWS, IoT and Cloud Computing knowledge
-- Cisco (CCNA), compTIA (IT Fundamentals, A+ and Network+) and MTA Certifications
+- C, ShellScript, JavaScript and Python Programmer.
+- A FreeBSD advanced user.
 
 
 <div>
