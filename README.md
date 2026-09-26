@@ -4,12 +4,9 @@
 - 👋 Hi, I’m @dehusch
 - 👀 I’m interested in improve my skills
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on freeBSD community
+- 🌱 I’m looking to collaborate on freeBSD community
 - 📫 To reach me:
-- @dehusch on insta
-- www.ehusch.com
 - eberhard.husch@outlook.com
-- https://www.linkedin.com/in/denishusch/
 
 Attempting to reach this levels:
 - C, ShellScript, JavaScript and Python Programmer.
